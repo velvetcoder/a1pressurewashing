@@ -54,7 +54,9 @@
     ],
     "uniqCompNum": 24,
     "versionPublish": "4.8.10",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
